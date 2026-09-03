@@ -31,7 +31,7 @@ foundational curriculum lives in the repository of that name; the more
 advanced projects built on top of it are each published as their own
 repository, listed below.
 
-[TJT_Pro on TradingView](https://www.tradingview.com/u/TJT_Pro/)
+Yours: [TJT_Pro on TradingView](https://www.tradingview.com/u/TJT_Pro/)
 
 ## Start here
 
