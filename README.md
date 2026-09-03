@@ -5,7 +5,7 @@ and somewhere along the way, a math enthusiast who couldn't leave it
 alone.
 
 Medicine teaches you not to trust a symptom until you understand the
-mechanism underneath it. I got fascinated with patterns years ago,
+mechanism underneath it. I got fascinated with patterns 2 years ago,
 watching markets move and noticing they weren't random so much as
 structured, if you looked at the right timescale. That fascination
 turned into my own recursive time framework for tracking where big
