@@ -25,14 +25,21 @@ the check that the from-scratch version is right.
 
 **2,247 tests. 30 projects. One dataset.**
 
-Trading and tools: [TJT_Pro on TradingView](https://www.tradingview.com/u/TJT_Pro/)
+Trading, tools, socials: [TJT_Pro on TradingView](https://www.tradingview.com/u/TJT_Pro/)
+
+Together, these 30 projects make up **Quant From First Principles** --
+derive it, implement it, verify it, apply it to real data. The
+foundational curriculum lives in the repository of that name; the more
+advanced projects built on top of it are each published as their own
+repository, listed below.
 
 ## Start here
 
-**[quant-from-first-principles](https://github.com/TJT-Pro/quant-from-first-principles)**
--- the foundational curriculum. 14 projects, phase 1 through 5: discrete
-math and probability, statistics and inference, decision theory and risk,
-calculus, linear algebra and optimization. 913 tests.
+The foundational curriculum lives in
+[quant-from-first-principles](https://github.com/TJT-Pro/quant-from-first-principles):
+14 projects, phase 1 through 5 -- discrete math and probability,
+statistics and inference, decision theory and risk, calculus, linear
+algebra and optimization. 913 tests.
 
 ## The quant engine
 
@@ -69,10 +76,9 @@ repository's own README; a link that 404s just means it isn't live yet.
 - [portfolio-mathematics](https://github.com/TJT-Pro/portfolio-mathematics) -- Markowitz frontier, CAPM, Kelly criterion
 - [model-risk](https://github.com/TJT-Pro/model-risk) -- VaR backtesting, AIC/BIC, backtest overfitting demonstration (the capstone)
 
-## Why from scratch?
+## Why from scratch
 
 Most quantitative code hides its mathematics behind a library call. That's
 the right call in production. It's the wrong call if the goal is to
 understand what the library is actually computing. The goal was never to
 replace NumPy or SciPy -- it was to earn the right to use them.
-
