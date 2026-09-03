@@ -25,13 +25,13 @@ the check that the from-scratch version is right.
 
 **2,247 tests. 30 projects. One dataset.**
 
-Trading, tools, socials: [TJT_Pro on TradingView](https://www.tradingview.com/u/TJT_Pro/)
-
 Together, these 30 projects make up **Quant From First Principles** --
 derive it, implement it, verify it, apply it to real data. The
 foundational curriculum lives in the repository of that name; the more
 advanced projects built on top of it are each published as their own
 repository, listed below.
+
+[TJT_Pro on TradingView](https://www.tradingview.com/u/TJT_Pro/)
 
 ## Start here
 
