@@ -45,8 +45,8 @@ algebra and optimization. 913 tests.
 
 Sixteen more advanced repositories built on that foundation, published
 independently so each is a complete, discoverable piece of work on its
-own. Publishing is in progress in the order listed under each
-repository's own README; a link that 404s just means it isn't live yet.
+own. Publishing was in progress in the order listed under each
+repository's own README; as of now, all repositories are complete!
 
 **Stochastic calculus & derivatives**
 
@@ -83,4 +83,4 @@ the right call in production. It's the wrong call if the goal is to
 understand what the library is actually computing. The goal was never to
 replace NumPy or SciPy -- it was to earn the right to use them.
 
-ENJOY(●'◡'●)
+ENJOY! (●'◡'●)
