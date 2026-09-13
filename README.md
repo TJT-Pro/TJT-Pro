@@ -82,3 +82,5 @@ Most quantitative code hides its mathematics behind a library call. That's
 the right call in production. It's the wrong call if the goal is to
 understand what the library is actually computing. The goal was never to
 replace NumPy or SciPy -- it was to earn the right to use them.
+
+ENJOY(●'◡'●)
