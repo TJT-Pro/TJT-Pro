@@ -46,7 +46,7 @@ algebra and optimization. 913 tests.
 Sixteen more advanced repositories built on that foundation, published
 independently so each is a complete, discoverable piece of work on its
 own. Publishing was in progress in the order listed under each
-repository's own README; as of now, all repositories are complete!
+repository's own README; as of now (13/09/2026), all repositories are complete!
 
 **Stochastic calculus & derivatives**
 
