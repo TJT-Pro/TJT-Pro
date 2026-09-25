@@ -1,6 +1,6 @@
 # TJT-Pro
 
-Hey. I'm TJT-Pro. Ex-medic, short-term trader, self-taught developer,
+Hey. I'm TJT-Pro. A medic, short-term trader, self-taught developer,
 and somewhere along the way, a math enthusiast who couldn't leave it
 alone.
 
